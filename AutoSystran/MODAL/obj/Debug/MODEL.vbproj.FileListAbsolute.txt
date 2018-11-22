@@ -1,0 +1,42 @@
+C:\Users\C5195092\Desktop\win32 api Test\AutoSystran\MODAL\obj\Debug\MODAL.Resources.resources
+C:\Users\C5195092\Desktop\win32 api Test\AutoSystran\MODAL\obj\Debug\MODEL.vbproj.GenerateResource.Cache
+C:\Users\C5195092\Desktop\win32 api Test\AutoSystran\MODAL\bin\Debug\MODAL.exe.config
+C:\Users\C5195092\Desktop\win32 api Test\AutoSystran\MODAL\bin\Debug\MODAL.exe
+C:\Users\C5195092\Desktop\win32 api Test\AutoSystran\MODAL\bin\Debug\MODAL.pdb
+C:\Users\C5195092\Desktop\win32 api Test\AutoSystran\MODAL\bin\Debug\MODAL.xml
+C:\Users\C5195092\Desktop\win32 api Test\AutoSystran\MODAL\bin\Debug\PRESENTER.exe
+C:\Users\C5195092\Desktop\win32 api Test\AutoSystran\MODAL\bin\Debug\PRESENTER.pdb
+C:\Users\C5195092\Desktop\win32 api Test\AutoSystran\MODAL\bin\Debug\PRESENTER.xml
+C:\Users\C5195092\Desktop\win32 api Test\AutoSystran\MODAL\obj\Debug\MODEL.vbprojResolveAssemblyReference.cache
+C:\Users\C5195092\Desktop\win32 api Test\AutoSystran\MODAL\obj\Debug\MODAL.exe
+C:\Users\C5195092\Desktop\win32 api Test\AutoSystran\MODAL\obj\Debug\MODAL.xml
+C:\Users\C5195092\Desktop\win32 api Test\AutoSystran\MODAL\obj\Debug\MODAL.pdb
+C:\SAP Projects\win32 api Test\AutoSystran\MODAL\bin\Debug\MODAL.exe.config
+C:\SAP Projects\win32 api Test\AutoSystran\MODAL\bin\Debug\MODAL.exe
+C:\SAP Projects\win32 api Test\AutoSystran\MODAL\bin\Debug\MODAL.pdb
+C:\SAP Projects\win32 api Test\AutoSystran\MODAL\bin\Debug\MODAL.xml
+C:\SAP Projects\win32 api Test\AutoSystran\MODAL\bin\Debug\PRESENTER.exe
+C:\SAP Projects\win32 api Test\AutoSystran\MODAL\bin\Debug\PRESENTER.pdb
+C:\SAP Projects\win32 api Test\AutoSystran\MODAL\bin\Debug\PRESENTER.xml
+C:\SAP Projects\win32 api Test\AutoSystran\MODAL\obj\Debug\MODEL.vbprojResolveAssemblyReference.cache
+C:\SAP Projects\win32 api Test\AutoSystran\MODAL\obj\Debug\MODAL.Resources.resources
+C:\SAP Projects\win32 api Test\AutoSystran\MODAL\obj\Debug\MODEL.vbproj.GenerateResource.Cache
+C:\SAP Projects\win32 api Test\AutoSystran\MODAL\obj\Debug\MODAL.exe
+C:\SAP Projects\win32 api Test\AutoSystran\MODAL\obj\Debug\MODAL.xml
+C:\SAP Projects\win32 api Test\AutoSystran\MODAL\obj\Debug\MODAL.pdb
+C:\SAP Project\SAP Projects\win32 api Test\AutoSystran\MODAL\bin\Debug\MODAL.exe.config
+C:\SAP Project\SAP Projects\win32 api Test\AutoSystran\MODAL\bin\Debug\MODAL.exe
+C:\SAP Project\SAP Projects\win32 api Test\AutoSystran\MODAL\bin\Debug\MODAL.pdb
+C:\SAP Project\SAP Projects\win32 api Test\AutoSystran\MODAL\bin\Debug\MODAL.xml
+C:\SAP Project\SAP Projects\win32 api Test\AutoSystran\MODAL\bin\Debug\PRESENTER.exe
+C:\SAP Project\SAP Projects\win32 api Test\AutoSystran\MODAL\bin\Debug\PRESENTER.pdb
+C:\SAP Project\SAP Projects\win32 api Test\AutoSystran\MODAL\bin\Debug\PRESENTER.xml
+C:\SAP Project\SAP Projects\win32 api Test\AutoSystran\MODAL\bin\Debug\PRESENTER.exe.config
+C:\SAP Project\SAP Projects\win32 api Test\AutoSystran\MODAL\obj\Debug\MODEL.vbprojAssemblyReference.cache
+C:\SAP Project\SAP Projects\win32 api Test\AutoSystran\MODAL\obj\Debug\MODAL.Resources.resources
+C:\SAP Project\SAP Projects\win32 api Test\AutoSystran\MODAL\obj\Debug\MODEL.vbproj.GenerateResource.cache
+C:\SAP Project\SAP Projects\win32 api Test\AutoSystran\MODAL\obj\Debug\MODEL.vbproj.CoreCompileInputs.cache
+C:\SAP Project\SAP Projects\win32 api Test\AutoSystran\MODAL\obj\Debug\MODEL.vbproj.CopyComplete
+C:\SAP Project\SAP Projects\win32 api Test\AutoSystran\MODAL\obj\Debug\MODAL.exe
+C:\SAP Project\SAP Projects\win32 api Test\AutoSystran\MODAL\obj\Debug\MODAL.xml
+C:\SAP Project\SAP Projects\win32 api Test\AutoSystran\MODAL\obj\Debug\MODAL.pdb

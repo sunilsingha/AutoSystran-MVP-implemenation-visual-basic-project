@@ -1,0 +1,29 @@
+C:\Users\C5195092\Desktop\win32 api Test\AutoSystran\PRESENTER\obj\Debug\PRESENTER.Resources.resources
+C:\Users\C5195092\Desktop\win32 api Test\AutoSystran\PRESENTER\obj\Debug\PRESENTER.vbproj.GenerateResource.Cache
+C:\Users\C5195092\Desktop\win32 api Test\AutoSystran\PRESENTER\bin\Debug\PRESENTER.exe.config
+C:\Users\C5195092\Desktop\win32 api Test\AutoSystran\PRESENTER\bin\Debug\PRESENTER.exe
+C:\Users\C5195092\Desktop\win32 api Test\AutoSystran\PRESENTER\bin\Debug\PRESENTER.pdb
+C:\Users\C5195092\Desktop\win32 api Test\AutoSystran\PRESENTER\bin\Debug\PRESENTER.xml
+C:\Users\C5195092\Desktop\win32 api Test\AutoSystran\PRESENTER\obj\Debug\PRESENTER.exe
+C:\Users\C5195092\Desktop\win32 api Test\AutoSystran\PRESENTER\obj\Debug\PRESENTER.xml
+C:\Users\C5195092\Desktop\win32 api Test\AutoSystran\PRESENTER\obj\Debug\PRESENTER.pdb
+C:\SAP Projects\win32 api Test\AutoSystran\PRESENTER\bin\Debug\PRESENTER.exe.config
+C:\SAP Projects\win32 api Test\AutoSystran\PRESENTER\bin\Debug\PRESENTER.exe
+C:\SAP Projects\win32 api Test\AutoSystran\PRESENTER\bin\Debug\PRESENTER.pdb
+C:\SAP Projects\win32 api Test\AutoSystran\PRESENTER\bin\Debug\PRESENTER.xml
+C:\SAP Projects\win32 api Test\AutoSystran\PRESENTER\obj\Debug\PRESENTER.Resources.resources
+C:\SAP Projects\win32 api Test\AutoSystran\PRESENTER\obj\Debug\PRESENTER.vbproj.GenerateResource.Cache
+C:\SAP Projects\win32 api Test\AutoSystran\PRESENTER\obj\Debug\PRESENTER.exe
+C:\SAP Projects\win32 api Test\AutoSystran\PRESENTER\obj\Debug\PRESENTER.xml
+C:\SAP Projects\win32 api Test\AutoSystran\PRESENTER\obj\Debug\PRESENTER.pdb
+C:\SAP Project\SAP Projects\win32 api Test\AutoSystran\PRESENTER\bin\Debug\PRESENTER.exe.config
+C:\SAP Project\SAP Projects\win32 api Test\AutoSystran\PRESENTER\bin\Debug\PRESENTER.exe
+C:\SAP Project\SAP Projects\win32 api Test\AutoSystran\PRESENTER\bin\Debug\PRESENTER.pdb
+C:\SAP Project\SAP Projects\win32 api Test\AutoSystran\PRESENTER\bin\Debug\PRESENTER.xml
+C:\SAP Project\SAP Projects\win32 api Test\AutoSystran\PRESENTER\obj\Debug\PRESENTER.vbprojAssemblyReference.cache
+C:\SAP Project\SAP Projects\win32 api Test\AutoSystran\PRESENTER\obj\Debug\PRESENTER.Resources.resources
+C:\SAP Project\SAP Projects\win32 api Test\AutoSystran\PRESENTER\obj\Debug\PRESENTER.vbproj.GenerateResource.cache
+C:\SAP Project\SAP Projects\win32 api Test\AutoSystran\PRESENTER\obj\Debug\PRESENTER.vbproj.CoreCompileInputs.cache
+C:\SAP Project\SAP Projects\win32 api Test\AutoSystran\PRESENTER\obj\Debug\PRESENTER.exe
+C:\SAP Project\SAP Projects\win32 api Test\AutoSystran\PRESENTER\obj\Debug\PRESENTER.xml
+C:\SAP Project\SAP Projects\win32 api Test\AutoSystran\PRESENTER\obj\Debug\PRESENTER.pdb
